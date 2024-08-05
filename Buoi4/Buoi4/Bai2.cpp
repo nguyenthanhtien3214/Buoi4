@@ -11,14 +11,14 @@ int sumEven(int a[], int n) {
         return sumEven(a, n - 1);
 }//
 
-// Hàm tìm kiếm nhị phân bằng kỹ thuật đệ quy
+//b Hàm tìm kiếm nhị phân bằng kỹ thuật đệ quy
 int binarySearch(int a[], int low, int high, int x) {
     if (low > high) return -1;
     int mid = (low + high) / 2;
     if (a[mid] == x) return mid;
     if (a[mid] > x) return binarySearch(a, low, mid - 1, x);
     else return binarySearch(a, mid + 1, high, x);
-}
+}//
 
 // Hàm tìm max chẵn trong mảng
 int maxEven(int a[], int n) {
