@@ -33,7 +33,7 @@ int maxEven(int a[], int n) {
     return max_of_rest;
 }//
 
-// Hàm tính tổng các phần tử lẻ trong mảng
+//d Hàm tính tổng các phần tử lẻ trong mảng
 int sumOdd(int a[], int n) {
     if (n == 0) return 0;
     int last = a[n - 1];
@@ -41,7 +41,7 @@ int sumOdd(int a[], int n) {
         return last + sumOdd(a, n - 1);
     else
         return sumOdd(a, n - 1);
-}
+}//
 
 // Hàm xuất các số ở vị trí lẻ trong mảng
 void printOddPositions(int a[], int n, int index) {
