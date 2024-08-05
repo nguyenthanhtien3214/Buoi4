@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|solutionrelative:Buoi4\\Bai6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|solutionrelative:Buoi4\\Bai5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bai6.cpp",
+              "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai6.cpp",
+              "RelativeDocumentMoniker": "Buoi4\\Bai6.cpp",
+              "ToolTip": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai6.cpp",
+              "RelativeToolTip": "Buoi4\\Bai6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T17:34:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Bai5.cpp",
               "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai5.cpp",
               "RelativeDocumentMoniker": "Buoi4\\Bai5.cpp",
               "ToolTip": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai5.cpp",
               "RelativeToolTip": "Buoi4\\Bai5.cpp",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAlwAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-05T17:29:55.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bai4.cpp",
               "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai4.cpp",
               "RelativeDocumentMoniker": "Buoi4\\Bai4.cpp",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Buoi4\\Bai4.cpp",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-05T17:24:55.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T17:24:55.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Bai3.cpp",
               "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai3.cpp",
               "RelativeDocumentMoniker": "Buoi4\\Bai3.cpp",
@@ -69,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Bai2.cpp",
               "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai2.cpp",
               "RelativeDocumentMoniker": "Buoi4\\Bai2.cpp",
