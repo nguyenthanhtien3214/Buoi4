@@ -20,7 +20,7 @@ int binarySearch(int a[], int low, int high, int x) {
     else return binarySearch(a, mid + 1, high, x);
 }//
 
-// Hàm tìm max chẵn trong mảng
+//c Hàm tìm max chẵn trong mảng
 int maxEven(int a[], int n) {
     if (n == 0) return -1; // Giá trị không hợp lệ
     if (n == 1) return (a[0] % 2 == 0) ? a[0] : -1;
@@ -31,7 +31,7 @@ int maxEven(int a[], int n) {
             return a[n - 1];
     }
     return max_of_rest;
-}
+}//
 
 // Hàm tính tổng các phần tử lẻ trong mảng
 int sumOdd(int a[], int n) {
