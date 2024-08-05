@@ -43,13 +43,13 @@ int sumOdd(int a[], int n) {
         return sumOdd(a, n - 1);
 }//
 
-// Hàm xuất các số ở vị trí lẻ trong mảng
+//e Hàm xuất các số ở vị trí lẻ trong mảng
 void printOddPositions(int a[], int n, int index) {
     if (index >= n) return;
     if (index % 2 != 0)
         printf("%d ", a[index]);
     printOddPositions(a, n, index + 1);
-}
+}//
 
 int main() {
     int a[] = { 3, 6, 8, 5, 10, 13, 2 };
