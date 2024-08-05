@@ -1,7 +1,7 @@
 ﻿#include <stdio.h>
 #include <stdlib.h>
 
-// Hàm tính tổng các phần tử chẵn trong mảng
+//a Hàm tính tổng các phần tử chẵn trong mảng
 int sumEven(int a[], int n) {
     if (n == 0) return 0;
     int last = a[n - 1];
@@ -9,7 +9,7 @@ int sumEven(int a[], int n) {
         return last + sumEven(a, n - 1);
     else
         return sumEven(a, n - 1);
-}
+}//
 
 // Hàm tìm kiếm nhị phân bằng kỹ thuật đệ quy
 int binarySearch(int a[], int low, int high, int x) {
