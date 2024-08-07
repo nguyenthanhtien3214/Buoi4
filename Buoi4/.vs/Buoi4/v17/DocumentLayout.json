@@ -3,10 +3,13 @@
   "WorkspaceRootPath": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Buoi6_Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|solutionrelative:Buoi4\\Buoi6_Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+=======
+>>>>>>> origin/main
       "AbsoluteMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Buoi5_Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|solutionrelative:Buoi4\\Buoi5_Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,6 +26,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "Buoi6_Bai2.cpp",
               "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Buoi6_Bai2.cpp",
               "RelativeDocumentMoniker": "Buoi4\\Buoi6_Bai2.cpp",
@@ -45,6 +49,17 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-07T06:08:28.857Z",
               "EditorCaption": ""
+=======
+              "Title": "Buoi5_Bai1.cpp",
+              "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Buoi5_Bai1.cpp",
+              "RelativeDocumentMoniker": "Buoi4\\Buoi5_Bai1.cpp",
+              "ToolTip": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Buoi5_Bai1.cpp",
+              "RelativeToolTip": "Buoi4\\Buoi5_Bai1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T06:08:28.857Z",
+              "EditorCaption": ""
+>>>>>>> origin/main
             }
           ]
         }

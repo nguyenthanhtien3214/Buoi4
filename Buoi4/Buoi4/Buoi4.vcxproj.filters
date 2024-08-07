@@ -33,8 +33,11 @@
     <ClCompile Include="Buoi5_Bai1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="Buoi6_Bai2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+=======
+>>>>>>> origin/main
   </ItemGroup>
 </Project>
