@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|solutionrelative:Buoi4\\Bai6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Buoi6_Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|solutionrelative:Buoi4\\Buoi6_Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|solutionrelative:Buoi4\\Bai5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|solutionrelative:Buoi4\\Bai4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|solutionrelative:Buoi4\\Bai3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|solutionrelative:Buoi4\\Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Buoi5_Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAC5E84-9394-4094-BB6A-5471F41C5E6A}|Buoi4\\Buoi4.vcxproj|solutionrelative:Buoi4\\Buoi5_Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,65 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Bai6.cpp",
-              "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai6.cpp",
-              "RelativeDocumentMoniker": "Buoi4\\Bai6.cpp",
-              "ToolTip": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai6.cpp",
-              "RelativeToolTip": "Buoi4\\Bai6.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAUAAAAAAAAA",
+              "Title": "Buoi6_Bai2.cpp",
+              "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Buoi6_Bai2.cpp",
+              "RelativeDocumentMoniker": "Buoi4\\Buoi6_Bai2.cpp",
+              "ToolTip": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Buoi6_Bai2.cpp",
+              "RelativeToolTip": "Buoi4\\Buoi6_Bai2.cpp",
+              "ViewState": "AQIAADIAAAAAAAAAAAAhwDkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-05T17:34:07.488Z",
+              "WhenOpened": "2024-08-07T06:24:55.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Bai5.cpp",
-              "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai5.cpp",
-              "RelativeDocumentMoniker": "Buoi4\\Bai5.cpp",
-              "ToolTip": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai5.cpp",
-              "RelativeToolTip": "Buoi4\\Bai5.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Title": "Buoi5_Bai1.cpp",
+              "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Buoi5_Bai1.cpp",
+              "RelativeDocumentMoniker": "Buoi4\\Buoi5_Bai1.cpp",
+              "ToolTip": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Buoi5_Bai1.cpp",
+              "RelativeToolTip": "Buoi4\\Buoi5_Bai1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-05T17:29:55.16Z",
+              "WhenOpened": "2024-08-07T06:08:28.857Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Bai4.cpp",
-              "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai4.cpp",
-              "RelativeDocumentMoniker": "Buoi4\\Bai4.cpp",
-              "ToolTip": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai4.cpp",
-              "RelativeToolTip": "Buoi4\\Bai4.cpp",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-05T17:24:55.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Bai3.cpp",
-              "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai3.cpp",
-              "RelativeDocumentMoniker": "Buoi4\\Bai3.cpp",
-              "ToolTip": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai3.cpp",
-              "RelativeToolTip": "Buoi4\\Bai3.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-05T17:17:29.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Bai2.cpp",
-              "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai2.cpp",
-              "RelativeDocumentMoniker": "Buoi4\\Bai2.cpp",
-              "ToolTip": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi4\\Buoi4\\Buoi4\\Bai2.cpp",
-              "RelativeToolTip": "Buoi4\\Bai2.cpp",
-              "ViewState": "AQIAACMAAAAAAAAAAAAQwC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-05T16:45:19.224Z"
             }
           ]
         }
